@@ -21,4 +21,20 @@ Here are some ideas to get you started:
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+<details open>
+<summary>My top THINGS-TO-RANK</summary>
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|        Vandal       |
+|     2|         Phantom      |
+|     3|          Operator     |
+
+</details>
+
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
 
