@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Valorant.
 - 📫 How to reach me: somewhere in HCM City.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: beautiful girls do take a shit (large shit).
-[Youtube](https://www.youtube.com/watch?v=_sOKkON_UnQ)
+- ⚡ Fun fact: good educational stuff on [TroLaiLamNguoi.com](https://trolailamnguoi.com)
+- [Youtube](https://www.youtube.com/watch?v=_sOKkON_UnQ)
