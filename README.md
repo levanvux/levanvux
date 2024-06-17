@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me 🧌
 
 <!--
 **levanvux/levanvux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here are some ideas to get you started: 
 -->
+
+- 🔭 I’m currently working on nowhere.
+- 🌱 I’m currently learning web development.
+- 👯 I’m looking to collaborate on playing Valorant.
+- 🤔 I’m looking for help with my Valorant skills.
+- 💬 Ask me about Valorant.
+- 📫 How to reach me: somewhere in HCM City.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: beautiful girls do take a shit (large shit).
+[Youtube](https://www.youtube.com/watch?v=_sOKkON_UnQ)
