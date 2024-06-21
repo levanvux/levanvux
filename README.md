@@ -4,7 +4,7 @@
 **levanvux/levanvux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
--->
+
 
 - 🔭 I’m currently working on nowhere.
 - 🌱 I’m currently learning web development.
@@ -38,3 +38,9 @@ Here are some ideas to get you started:
 
 — Mona the Octocat
 
+-->
+
+- I'm studying Networking and Data Communication at UIT.
+- I'm currently diving into web dev.
+
+*v~*😄
