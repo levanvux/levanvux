@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - I'm studying Networking and Data Communication at UIT.
 - I'm currently diving into web dev.
 
-*v~*😄
+*v~*
