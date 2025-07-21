@@ -26,6 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/> 
   </a>
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levanvux&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
     
