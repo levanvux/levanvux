@@ -1,4 +1,4 @@
-<h1>Hi 🧌, I'm Le Van Vu</h1>
+<h1>Hi there, I'm Le Van Vu</h1>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />&nbsp;<b>About me</b>
 
@@ -34,7 +34,7 @@
 **levanvux/levanvux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
-
+🧌🧌🧌
 
 - 🔭 I’m currently working on nowhere.
 - 🌱 I’m currently learning web development.
