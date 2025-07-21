@@ -2,7 +2,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />&nbsp;<b>About me</b>
 
-- 💨 Fun fact: I forgive the person I was  
+- 🍃 Fun fact: I forgive the person I was  
 - 📭 Reach me at: hoanngu512@gmail.com  
 - 🍥 Hobby: Learning how people think and feel  
 
