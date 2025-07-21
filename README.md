@@ -1,6 +1,34 @@
 <h1 align="center">Hi 🧌, I'm Le Van Vu</h1>
-<h3 align="center">A student from University Of Information And Technology (VNU)</h3>
 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />&nbsp;<b>About me</b>
+
+- 💨 Fun fact: I forgive the person I was  
+- 📭 Reach me at: hoanngu512@gmail.com  
+- 🍥 Hobby: Learning how people think and feel  
+
+<br>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" />&nbsp;<b>About tech</b>
+<p align="left">
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levanvux&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+    
 <!--
 **levanvux/levanvux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,4 +73,7 @@ Here are some ideas to get you started:
 - I'm currently diving into web dev.
 
 -->
+
+<br>
+
 *v~*
