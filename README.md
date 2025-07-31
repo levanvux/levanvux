@@ -3,7 +3,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />&nbsp;<b>About me</b>
 
 - 🍃 Fun fact: I forgive the person I was  
-- 📭 Reach me at: hoanngu512@gmail.com  
+- 🔭 Another fact: I open Chrome using the terminal
 - 🍥 Hobby: Learning how people think and feel  
 
 <br>
@@ -35,7 +35,7 @@
 
 Here are some ideas to get you started: 
 🧌🧌🧌
-
+- 📭 Reach me at: hoanngu512@gmail.com  
 - 🔭 I’m currently working on nowhere.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on playing Valorant.
