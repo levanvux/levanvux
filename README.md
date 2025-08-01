@@ -3,8 +3,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />&nbsp;<b>About me</b>
 
 - 🍃 Fun fact: I forgive the person I was  
-- 🔭 Another one: I open Chrome using the terminal
-- 🍥 Hobby: Learning how people think and feel  
+- 🍥 Another one: I open Chrome using the terminal
 
 <br>
 
