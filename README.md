@@ -3,6 +3,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />&nbsp;<b>About me</b>
 
 - 🍥 I open Chrome using the terminal
+- 🍃 I love Javascript
 
 <br>
 
