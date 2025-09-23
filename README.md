@@ -2,9 +2,9 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />&nbsp;<b>About me</b>
 
-- 🍥 I open Chrome using the terminal
 - 🍃 I love Javascript
-
+- 📭 Reach me at: hoanngu512@gmail.com
+    
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" />&nbsp;<b>About tech</b>
@@ -37,6 +37,7 @@
 Here are some ideas to get you started: 
 🧌🧌🧌
 - 📭 Reach me at: hoanngu512@gmail.com  
+- 🍥 I open Chrome using the terminal
 - 🔭 I’m currently working on nowhere.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on playing Valorant.
