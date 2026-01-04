@@ -42,7 +42,7 @@
 
 Here are some ideas to get you started: 
 🧌🧌🧌
-- 📭 Reach me at: hoanngu512@gmail.com  
+- 📭 Reach me at: 23521809@gm.uit.edu.vn  
 - 🍥 I open Chrome using the terminal
 - 🔭 I’m currently working on nowhere.
 - 🌱 I’m currently learning web development.
