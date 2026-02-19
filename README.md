@@ -3,7 +3,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />&nbsp;<b>About me</b>
 
 - 🍃 I love Javascript
-- 📭 Reach me at: 23521809@gm.uit.edu.vn
+- 📭 Reach me at: vanvu51225@gmail.com
     
 <br>
 
