@@ -12,9 +12,9 @@
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin-right: 10px;"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 10px;"/> 
-  </a> 
+  </a>  -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="margin-right: 10px;"/> 
   </a> 
@@ -24,8 +24,22 @@
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin-right: 10px;"/> 
   </a>
-     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" 
+       alt="nestjs" 
+       width="50" 
+       height="50" 
+       style="margin-right: 10px;"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+       alt="react" 
+       width="50" 
+       height="50" 
+       style="margin-right: 10px;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="margin-right: 10px;"/> 
