@@ -1,8 +1,9 @@
-<h1>Hi there, I'm Le Van Vu</h1>
+<h1>Hi there, I'm Vu</h1>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />&nbsp;<b>About me</b>
 
 - 🍃 I love Javascript
+- 🍥 I solve Leetcode daily
 - 📭 Reach me at: vanvu51225@gmail.com
     
 <br>
@@ -46,7 +47,7 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levanvux&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levanvux&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
     
 <!--
