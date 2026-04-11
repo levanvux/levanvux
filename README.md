@@ -4,6 +4,7 @@
 
 - 🍃 I love Javascript
 - 🍥 I solve Leetcode daily
+- 🌱 I'm currently learning Backend Development and DevSecOps
 - 📭 Reach me at: vanvu51225@gmail.com
     
 <br>
